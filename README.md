@@ -1,2 +1,2 @@
-# Loko
-Vladimír je lopata :loko4Head:
+Vladimír je lopata
+
